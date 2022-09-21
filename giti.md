@@ -142,3 +142,8 @@ __В больших компаниях один ответственный за 
 - Фиксируем изменения (делаем коммиты)
 - Отправляем свою версию в свой GitHub
 - На сайте GitHub нажимаем кнопку *pull request*
+
+![картинка](https://otkritkis.com/wp-content/uploads/2021/12/s1200-4.jpg)
+
+![картинка](https://get.pxhere.com/photo/nature-tree-autumn-leaf-plant-maple-tree-deciduous-botanical-garden-woodland-spring-garden-branch-state-park-landscape-flowering-plant-landscaping-maple-leaf-1459909.jpg)
+
